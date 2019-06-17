@@ -1,4 +1,4 @@
-
+//A class that prints a list of arrays, adds the list and prints the maximum value in the list
 public class BasicArray {
 
     
